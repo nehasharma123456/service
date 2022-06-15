@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital@0;1&display=swap');
+h1{
+  font-family: 'Montserrat Alternates', sans-serif !important;
+}
+nav {
+  background: url("assets/images/nav.png");
+}
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(247 247 247);
+}
+.banner-text
+{
+font-weight: 800;
+font-size: 48px;
+letter-spacing: -3.5%;
+
+}
+.wrapper
+{
+  background: url("assets/images/banner.jpg");
+  height: 600px;
+  background-size: cover;
+}
+.mt--150
+{
+  margin-top: -150px;
+}
+.card-img-top {
+  height: 150px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%), #3F95E8;
+  background-blend-mode: color-burn, normal;
+  border-radius: 20px 20px 0px 0px;
+  object-fit: contain;
+  padding-top: 50px;
+}
+.card.Jobtrackitems {
+  border-radius: 20px 20px 0px 0px;
+}
+
+.card.Jobtrackitems 
+{
+  background: #F7F7F7 !important;
+  border: 1px solid #061D5A !important;
+  box-shadow: -4px -4px 20px rgba(98, 198, 255, 0.15), 4px 4px 10px rgba(6, 29, 90, 0.25);
+  border-radius: 20px;
+}
+.CTA-section
+{
+  background: linear-gradient(0deg, rgba(36, 42, 44, 0.85), rgba(36, 42, 44, 0.85)), url(assets/images/cta-bg.png);
+background-blend-mode: hard-light, normal;
+border-radius: 20px;
+
+}
+.Insight
+{
+  
+  background-image: url("assets/images/Insight.png");
+  height: 500px;
+  background-size: 100% 100%;
+  background-color: #F5F5F5;
+}
+.function-div
+{
+  background: #F7F7F7;
+/* Dark Blue Outside Stroke */
+
+border: 1px solid #061D5A;
+box-shadow: -4px -4px 20px rgba(255, 255, 255, 0.1), 4px 4px 10px rgba(36, 42, 44, 0.59);
+border-radius: 20px;
+}
+.function-div h5{
+  color: #196EC0;
+}
+.contact-form input,.contact-form textarea
+{
+  box-shadow: 5px 8px 20px rgba(0, 0, 0, 0.34);
+border-radius: 20px;
+border: 1px solid #061D5A !important;
+padding: 10px 20px;
+}
+.contactform
+{
+  background-color: #F5F5F5;
+}
+.footer-section
+{
+  background: linear-gradient(0deg, rgba(36, 42, 44, 0.85), rgba(36, 42, 44, 0.85)), url(assets/images/cta-bg.png);
+background-blend-mode: hard-light, normal;
+border-radius: 20px;
+}
+
+.footer-section ul li{
+  list-style-type: none;
+  
+}
+.footer-section ul li a{
+  text-decoration: none;
+  color: #fff;
+}
+.table>:not(caption)>*>* {
+
+  background-color: none !important;
+ 
+}
+.btn-danger {
+  color: #fff;
+  background-color: #dc3545 !important;
+  border-color: #dc3545 !important;
+}
+.btn-success {
+  color: #fff;
+  background-color: #198754 !important;
+  border-color: #198754;
+}
