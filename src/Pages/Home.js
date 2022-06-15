@@ -17,7 +17,7 @@ export const Home = () => {
 			<div className="container pt-17 pb-19 pt-md-19 pb-md-20 light-gallery-wrapper text-center">
 				<div className="row mb-11 pt-5">
 					<div className="col-md-12 col-lg-10 col-xxl-8 mx-auto" data-cues="zoomIn" data-group="page-title" data-interval="-200">
-						<h2 className="banner-text">Super charge your work flow with</h2>
+						<h2 className="banner-text">Super111 charge your work flow with</h2>
 					<img src={logo}></img>					
 					</div>
 			</div>
